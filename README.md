@@ -11,7 +11,7 @@ The fastest and easiest way to install this plugin is to download the `.zip` fil
 Another way to install it, is cloning this repository directly into `custom\plugins` from your **Shopware** root directory. Then go to **Showware backend** interface and finish it from there.
 
 ```
-git clone https://github.com/pereira-pedro/shopware-plugin.git
+git clone https://github.com/pereira-pedro/shopware-plugin.git IxoraExtraText
 ```
 
 ## Support
