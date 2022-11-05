@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/config.xsd">
     <elements>
         <element type="text" scope="locale">
-            <name>swagSloganContent</name>
-            <label lang="de">Dein Slogan</label>
-            <label lang="en">Your slogan</label>
-            <description lang="de">Dieser Slogan wird in in der Storefront angezeigt</description>
-            <description lang="en">This slogan will be shown on the storefront</description>
+            <name>ixoraTextContent</name>
+            <label lang="de">Zusatztext</label>
+            <label lang="en">Extra text</label>
+            <description lang="de">Dieser Text wird neben der Schaltfläche "In den Warenkorb" angezeigt.</description>
+            <description lang="en">This text will be shown next the "Add to cart" button.</description>
         </element>
         <element type="select" scope="locale">
-            <name>swagSloganFontSize</name>
+            <name>ixoraTextFontSize</name>
             <label lang="de">Schriftgröße</label>
             <label lang="en">Font size</label>
             <value>12</value>
@@ -30,7 +29,7 @@
             </store>
         </element>
         <element type="boolean" scope="locale">
-            <name>swagSloganItalic</name>
+            <name>ixoraTextFontItalic</name>
             <label lang="de">Kursiv</label>
             <label lang="en">Italic</label>
             <value>false</value>

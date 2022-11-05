@@ -11,7 +11,7 @@
       "hostname": "0.0.0.0",
       "port": 9003,
       "pathMappings": {
-        "/var/www/html/shopware/custom/plugins/SwagSloganOfTheDay": "/Users/pedropereira/Developing/ixora/shopware/plugins/SwagSloganOfTheDay"
+        "/var/www/html/shopware/custom/plugins/IxoraExtraText": "/Users/pedropereira/Developing/ixora/shopware/plugins/IxoraExtraText"
       },
       "ignore": ["**/vendor/**/*.php"]
     }
