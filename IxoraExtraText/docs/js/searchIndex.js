@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\IxoraExtraText\\IxoraExtraText",
+            "name": "IxoraExtraText",
+            "summary": "Plugin\u0020front\u0020door\u0020definition",
+            "url": "classes/IxoraExtraText-IxoraExtraText.html"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber",
+            "name": "RouteSubscriber",
+            "summary": "Route\u0020subscriber\u0020for\u0020the\u0020plugin",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructor",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html#method___construct"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber\u003A\u003AgetSubscribedEvents\u0028\u0029",
+            "name": "getSubscribedEvents",
+            "summary": "Bind\u0020event\u0020to\u0020local\u0020method",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html#method_getSubscribedEvents"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber\u003A\u003AonPostDispatch\u0028\u0029",
+            "name": "onPostDispatch",
+            "summary": "Prepare\u0020the\u0020data\u0020to\u0020render",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html#method_onPostDispatch"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber\u003A\u003A\u0024pluginDirectory",
+            "name": "pluginDirectory",
+            "summary": "Plugin\u0020path",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html#property_pluginDirectory"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber\\RouteSubscriber\u003A\u003A\u0024config",
+            "name": "config",
+            "summary": "Config\u0020reader\u0020object",
+            "url": "classes/IxoraExtraText-Subscriber-RouteSubscriber.html#property_config"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        },                {
+            "fqsen": "\\IxoraExtraText",
+            "name": "IxoraExtraText",
+            "summary": "",
+            "url": "namespaces/ixoraextratext.html"
+        },                {
+            "fqsen": "\\IxoraExtraText\\Subscriber",
+            "name": "Subscriber",
+            "summary": "",
+            "url": "namespaces/ixoraextratext-subscriber.html"
+        }            ]
+);
