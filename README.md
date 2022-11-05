@@ -1,0 +1,11 @@
+# Shopware Extra Text Plugin
+
+This plugin render an extra text near the "Add to Cart" button.
+
+The shop administrator can set the text, font size, and the optional _italic_ style.
+
+## Installation
+
+The fastest and easiest way to install this plugin is to download the `.zip` file and install it from the **Shopware backend** interface.
+
+Another way to install it, is cloning this repository directly into `custom\plugins` from your **Shopware** root directory.
